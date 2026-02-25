@@ -24,3 +24,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn
 Environment: Jupyter Notebook
 
 # 📊 Quick Insights
+<img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/8fad08fc-021d-4d28-928e-8714f4843035" />
+
+# 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
