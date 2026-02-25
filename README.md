@@ -4,16 +4,8 @@ A comprehensive Exploratory Data Analysis (EDA) of the Egyptian real estate mark
 
 # 🗂️ Data Dictionary
 The dataset contains detailed information for each listing
-Column Name,Description,Sample Value
-Price,Total property price in EGP,"8,000,000"
-Location,Project name + City + Governorate,"Swan Lake Gouna, Red Sea"
-Type,"Property category (Chalet, Apartment, Villa)",Chalet
-Size,Unit area in Square Feet and Square Meters,732 sqft / 68 sqm
-Bedrooms,Number of bedrooms (includes maid rooms),1 + Maid
-Bathrooms,Number of bathrooms in the unit,1
-Available_from,Expected delivery/handover date,31-Aug-25
-Payment_method,Payment type (Cash or Installments),Cash
-Down_payment,Upfront amount required,"1,200,000 EGP"
+<img width="806" height="449" alt="image" src="https://github.com/user-attachments/assets/47e8d581-33cc-440d-b275-88190ef257d5" />
+
 
 # 🚀 Key Objectives
 Data Cleaning: Standardizing the size and bedrooms columns from string formats to numerical values for statistical analysis.
